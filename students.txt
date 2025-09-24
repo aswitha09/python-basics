@@ -1,0 +1,6 @@
+hello c++
+hello python
+hello ashu
+hello rupika
+hello world
+hello python
